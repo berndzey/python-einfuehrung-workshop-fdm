@@ -13,7 +13,6 @@ Konzipiert wurde der Workshop im Rahmen des FDM-Curriculums der UA Ruhr.
 ## Dateien
 
 - Sie benötigen alle 3 Dateien (csv, xlsx und tab-csv)
-- Die Datensätze und das JupyterLab-Notebook müssen im gleichen Ordner auf Ihrer Festplatte liegen!
 - Als .csv-Datei: `Titanic-Dataset.csv`
 - Als .xlsx-Datei: `Titanic-Dataset.xlsx`
 - Als tab-csv-Datei: `Titanic-Dataset-Tab.csv`
