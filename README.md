@@ -14,9 +14,9 @@ Konzipiert wurde der Workshop im Rahmen des FDM-Curriculums der UA Ruhr.
 
 - Sie benötigen alle 3 Dateien (csv, xlsx und tab-csv)
 - Die Datensätze und das JupyterLab-Notebook müssen im gleichen Ordner auf Ihrer Festplatte liegen!
-- Als .csv-Datei: Titanic
-- Als .xlsx-Datei: Titanic Datensatz
-- Als tab-csv-Datei:Titanic-Datensatz-Tab
+- Als .csv-Datei: `Titanic-Dataset.csv`
+- Als .xlsx-Datei: `Titanic-Dataset.xlsx`
+- Als tab-csv-Datei: `Titanic-Dataset-Tab.csv`
 - Spalten-Überschriften
   - PassengerId: zugewiesene ID
   - Survived: Überlebt 0/1
