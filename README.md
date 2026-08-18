@@ -7,10 +7,27 @@ Konzipiert wurde der Workshop im Rahmen des FDM-Curriculums der UA Ruhr.
 ## Ausführung 
 
 Die einfachste Möglichkeit, um Python auszuprobieren -- und den Workshop-Code auszuführen -- ist die Verwendung eines Jupyter-Hubs. 
-Hierfür bietet sich der Jupyter-Hub der [NFDI](https://www.nfdi.de/) an. 
+
+### JupyterHub der NFDI
+
+Die komfortabelste Lösung bietet der Jupyter-Hub der [NFDI](https://www.nfdi.de/). 
 Klicken Sie einfach auf das folgende Logo, um sich anzumelden und den Workshop-Code und die notwendigen Dateien im NFDI-Jupyter-Hub zu nutzen: 
 
-[![Jupyter4NFDI](https://nfdi-jupyter.de/images/jupyter4nfdi_badge.svg)]([https://hub.nfdi-jupyter.de/v2/gh/_repoowner_/_repotype_/_ref_](https://hub.nfdi-jupyter.de/v2/gh/berndzey/python-einfuehrung-workshop-fdm/main?labpath=python-workshop-fdm-template.ipynb&system=deNBI-Cloud&flavor=m1&localstoragepath=%2Fhome%2Fjovyan%2Fwork))
+[![Jupyter4NFDI](https://nfdi-jupyter.de/images/jupyter4nfdi_badge.svg)](https://hub.nfdi-jupyter.de/v2/gh/berndzey/python-einfuehrung-workshop-fdm/main?labpath=python-workshop-fdm-template.ipynb&system=deNBI-Cloud&flavor=m1&localstoragepath=%2Fhome%2Fjovyan%2Fwork)
+
+
+### Jupyterhub.nrw
+
+Sie können den Code analog auch auf dem Jupyterhub.nrw laufen lassen. Das Problem ist, dass der Server von Ihrer Institution abhängt und ein allgemeiner Link wie bei der NFDI nicht möglich ist. Für die TU Dortmund lautet der Link wie folgt: 
+`https://tu-dortmund.jupyterhub.nrw/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberndzey%2Fpython-einfuehrung-workshop-fdm&urlpath=lab%2Ftree%2Fpython-einfuehrung-workshop-fdm%2Fpython-workshop-fdm-template.ipynb&branch=main`
+
+-> [Workshop auf Jupyterhub.nrw für die TU Dortmund](https://tu-dortmund.jupyterhub.nrw/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberndzey%2Fpython-einfuehrung-workshop-fdm&urlpath=lab%2Ftree%2Fpython-einfuehrung-workshop-fdm%2Fpython-workshop-fdm-template.ipynb&branch=main)
+
+Für Ihre Institution müssen Sie den Anfangsteil `tu-dortmund` mit Ihrem Institutionskürzel ersetzen; dann sollte der Link funktionieren. 
+
+Alternativ können Sie natürlich selber ein Projekt auf [Jupyterhub.nrw](https://www.jupyterhub.nrw/de/) erstellen und den Code und die Dateien hochladen. 
+
+### Lokale Ausführung
 
 Natrülich können Sie den Code auch lokal ausführen. 
 Hierfür müssen Sie sich Python installieren und den Code (die zwei JupyterLab-Notebooks) und die Dateien (zwei csv's und eine xlsx) herunterladen. 
