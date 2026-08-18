@@ -6,7 +6,7 @@ Konzipiert wurde der Workshop im Rahmen des FDM-Curriculums der UA Ruhr.
 
 ## Ausführung 
 
-Die einfachste Möglichkeit, um Python auszuprobieren -- und den Workshop-Code zu bearbeiten -- ist die Verwendung eines Jupyter-Hubs. 
+Die einfachste Möglichkeit, um Python auszuprobieren -- und den Workshop-Code auszuführen -- ist die Verwendung eines Jupyter-Hubs. 
 Hierfür bietet sich der Jupyter-Hub der [NFDI](https://www.nfdi.de/) an. 
 Klicken Sie einfach auf das folgende Logo, um sich anzumelden und den Workshop-Code und die notwendigen Dateien im NFDI-Jupyter-Hub zu nutzen: 
 
