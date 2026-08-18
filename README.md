@@ -23,7 +23,7 @@ Sie können den Code analog auch auf dem Jupyterhub.nrw laufen lassen. Das Probl
 
 -> [Workshop auf Jupyterhub.nrw für die TU Dortmund](https://tu-dortmund.jupyterhub.nrw/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberndzey%2Fpython-einfuehrung-workshop-fdm&urlpath=lab%2Ftree%2Fpython-einfuehrung-workshop-fdm%2Fpython-workshop-fdm-template.ipynb&branch=main)
 
-Für Ihre Institution müssen Sie den Anfangsteil `tu-dortmund` mit Ihrem Institutionskürzel ersetzen; dann sollte der Link funktionieren. 
+Für Ihre Institution müssen Sie im Link den Anfangsteil `tu-dortmund` mit Ihrem Institutionskürzel ersetzen; dann sollte der Link funktionieren. 
 
 Alternativ können Sie natürlich selber ein Projekt auf [Jupyterhub.nrw](https://www.jupyterhub.nrw/de/) erstellen und den Code und die Dateien hochladen. 
 
