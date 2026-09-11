@@ -61,7 +61,7 @@ Hierfür müssen Sie sich Python installieren und den Code (die zwei JupyterLab-
 Hinweis: Die csv-Datei ist lizensiert unter CC0 1.0, veröffentlicht auf [https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset). 
 Die xlsx- und tab-csv-Datei wurden von Bernd Zey erzeugt und sind unter CC0 1.0 lizensiert
 
-## Weiterführender Python-Kurs
+## Selbstlernkurs zu Python
 
 Studierenden der Geistes- und Sozialwissenschaften (auch allen anderen Interessierten) steht ein Selbstlernkurs zur Einführung in Python zur Verfügung: 
 In „Sentimentanalyse von Grimms Märchen mit Python“  lernen Teilnehmer:innen ohne Programmiererfahrung die Grundlagen von Python an einem anschaulichen Anwendungsbeispiel – und schreiben dabei selbst Code direkt im Browser, mit automatischem Feedback zu jeder Übung. Dazu muss nichts heruntergeladen oder installiert werden.
