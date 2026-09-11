@@ -61,3 +61,17 @@ Hierfür müssen Sie sich Python installieren und den Code (die zwei JupyterLab-
 Hinweis: Die csv-Datei ist lizensiert unter CC0 1.0, veröffentlicht auf [https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset). 
 Die xlsx- und tab-csv-Datei wurden von Bernd Zey erzeugt und sind unter CC0 1.0 lizensiert
 
+## Weiterführender Python-Kurs
+
+Studierenden der Geistes- und Sozialwissenschaften (auch allen anderen Interessierten) steht ein Selbstlernkurs zur Einführung in Python zur Verfügung: 
+In „Sentimentanalyse von Grimms Märchen mit Python“  lernen Teilnehmer:innen ohne Programmiererfahrung die Grundlagen von Python an einem anschaulichen Anwendungsbeispiel – und schreiben dabei selbst Code direkt im Browser, mit automatischem Feedback zu jeder Übung. Dazu muss nichts heruntergeladen oder installiert werden.
+
+Direkt zum Kurs und allen Informationen geht es [hier](https://github.com/Bayquiri/python-sentiment-grimm). 
+
+Veröffentlicht wurde der Kurs außerdem als Open Educational Resource (CC BY-SA 4.0) hier auf [DuEPublico](https://doi.org/10.17185/duepublico/86519).
+
+Die Bearbeitungszeit beträgt ca. 4–6 Stunden – die Zeit kann dabei völlig frei eingeteilt werden.
+
+Entwickelt wurde der Kurs von Sarah Ann Stock, die als Data Librarian bei den RDS arbeitet, im Rahmen des Projekts [Digital Humanities Ruhr@UDE](https://www.uni-due.de/ub/datacampus/dhruhr.php), gefördert durch die Stiftung [Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/). Die technische Umsetzung auf dem JupyterHub wurde als Incubator Project von [Jupyter4NFDI](https://base4nfdi.de/projects/jupyter4nfdi) realisiert.
+
+
