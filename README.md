@@ -1,6 +1,6 @@
 # Workshop "Einführung in Python" 
 
-Der Workshop "Einführung in Python" richtet sich insbesondere an Python-AnfängerInnen und es werden keine Python- oder Programmier-Kenntnisse vorausgesetzt. 
+Der Workshop "Einführung in Python" richtet sich an Python-AnfängerInnen und es werden keine Python- oder Programmier-Kenntnisse vorausgesetzt. 
 
 Konzipiert wurde der Workshop im Rahmen des FDM-Curriculums der UA Ruhr. 
 
