@@ -72,6 +72,6 @@ Veröffentlicht wurde der Kurs außerdem als Open Educational Resource (CC BY-SA
 
 Die Bearbeitungszeit beträgt ca. 4–6 Stunden – die Zeit kann dabei völlig frei eingeteilt werden.
 
-Entwickelt wurde der Kurs von Sarah Ann Stock, die als Data Librarian bei den RDS arbeitet, im Rahmen des Projekts [Digital Humanities Ruhr@UDE](https://www.uni-due.de/ub/datacampus/dhruhr.php), gefördert durch die Stiftung [Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/). Die technische Umsetzung auf dem JupyterHub wurde als Incubator Project von [Jupyter4NFDI](https://base4nfdi.de/projects/jupyter4nfdi) realisiert.
+Entwickelt wurde der Kurs von Sarah Ann Stock, die als Data Librarian bei den Research Data Services der Universität Duisburg-Essen arbeitet, im Rahmen des Projekts [Digital Humanities Ruhr@UDE](https://www.uni-due.de/ub/datacampus/dhruhr.php), gefördert durch die Stiftung [Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/). Die technische Umsetzung auf dem JupyterHub wurde als Incubator Project von [Jupyter4NFDI](https://base4nfdi.de/projects/jupyter4nfdi) realisiert.
 
 
